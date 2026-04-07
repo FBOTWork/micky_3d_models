@@ -1,0 +1,7 @@
+*.vscode*
+*__pycache__*
+*.csv
+*.dat
+*.pt
+.env
+*.log*
